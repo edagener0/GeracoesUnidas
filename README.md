@@ -1,5 +1,43 @@
 # Gerações Unidas - Plataforma de Conexão Idosos e Estudantes
 
+## Tabela de conteúdos
+- [Gerações Unidas - Plataforma de Conexão Idosos e Estudantes](#gerações-unidas---plataforma-de-conexão-idosos-e-estudantes)
+  - [Tabela de conteúdos](#tabela-de-conteúdos)
+  - [Contexto](#contexto)
+  - [Introdução](#introdução)
+  - [🎯 Objetivo](#-objetivo)
+  - [✨ Funcionalidades Implementadas](#-funcionalidades-implementadas)
+    - [Autenticação](#autenticação)
+    - [Perfis de Utilizador](#perfis-de-utilizador)
+    - [Gestão de Quartos](#gestão-de-quartos)
+    - [Pesquisa e Filtros](#pesquisa-e-filtros)
+    - [Sistema de Candidaturas](#sistema-de-candidaturas)
+    - [Sistema de Mensagens](#sistema-de-mensagens)
+    - [Favoritos](#favoritos)
+    - [Avaliações](#avaliações)
+    - [Base de Dados](#base-de-dados)
+  - [🚧 Funcionalidades Pendentes](#-funcionalidades-pendentes)
+    - [Pagamentos](#pagamentos)
+  - [🏗️ Arquitetura](#️-arquitetura)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+  - [📁 Estrutura do Projeto](#-estrutura-do-projeto)
+  - [🚀 Como Executar](#-como-executar)
+    - [Requisitos](#requisitos)
+    - [Instalação](#instalação)
+    - [Build para Web](#build-para-web)
+  - [🔐 Variáveis de Ambiente](#-variáveis-de-ambiente)
+  - [📊 Base de Dados](#-base-de-dados)
+    - [Tabelas Principais](#tabelas-principais)
+    - [Segurança (RLS)](#segurança-rls)
+  - [🎨 Design](#-design)
+  - [📱 Compatibilidade](#-compatibilidade)
+    - [Web](#web)
+    - [Mobile](#mobile)
+  - [🔄 Próximos Passos](#-próximos-passos)
+  - [📄 Licença](#-licença)
+  - [🤝 Suporte](#-suporte)
+
 ## Contexto
 Esta aplicação foi desenvolvida no âmbito do evemto [Hackaton/Buildaton](https://luma.com/wfas10a0) proporcionado pela entidade AlgarveEvolution no [UAlg Tec Campus](https://algarvetechhub.com/facility/ualg-tec-campus).
 Nesta Buildaton o principal objetivo foi desenvolver uma aplicação, utilizando como principal recurso a Inteligência Artificial,para combater desafios regionais do Algarve ou Portugal.
