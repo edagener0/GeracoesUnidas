@@ -68,7 +68,7 @@ Combater a solidão dos idosos e facilitar a habitação dos estudantes deslocad
 
 **Perfil de Estudante:**
 - Nome, idade
-- Universidade (lista de universidades portuguesas - RF-17)
+- Universidade (lista de universidades portuguesas)
 - Curso
 - Tipo: Nacional, Internacional ou Erasmus
 - Biografia
